@@ -1,0 +1,31 @@
+#items li{
+    min-width:100px;
+    min-height:200px;
+    border-radius: 10px;
+
+}
+#items li div{
+    min-width:100px;
+    min-height:200px;
+    background-color: white;
+    border-radius: 10px;
+    text-align:center;
+    
+}
+#items li div p:first-child{
+    font-size:35px;
+}
+#items li div p{
+    font-size: 20px;
+}
+#items li div button{
+    width: 100px;
+    height:50px;
+    background-color: midnightblue;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size:10px;
+    border:0px;
+    border-radius: 50px;
+}

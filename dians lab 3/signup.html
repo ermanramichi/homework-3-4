@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Log In</title>
+    <link rel="stylesheet" href="login.css" />
+    <script src="node.js"></script>
+  </head>
+  <body>
+    <div class="header">
+      <form>
+        <input
+          type="search"
+          id="search"
+          name="search"
+          placeholder="   Search"
+        />
+      </form>
+      <nav class="navigation">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="buttons">
+        <button id="login">
+          <a href="login.html">Log In</a>
+        </button>
+        <button id="signup"><a href="signup.html">Sign up</a></button>
+      </div>
+    </div>
+    <div class="signupcont">
+      <div class="signupbox">
+        <label for="firstname">First Name</label>
+        <input type="text" name="firstname" id="firstname" />
+        <label for="lastname">LastName</label>
+        <input type="text" name="lastname" id="lastname" />
+        <label for="username">Username</label>
+        <input type="text" name="username" id="username" />
+        <label for="email">Email</label>
+        <input type="email" name="Email" id="email" />
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" />
+        <label for="repassword">Re-enter your password</label>
+        <input type="password" name="repassword" id="repassword" />
+        <div class="agreement">
+        <input type="checkbox">
+        <label id="agreement" for="agreement">I would like to get notifications in email for next exhibitions and every news about art galleries in Macedonia</label>
+        
+    </div>
+    <button type="button" onclick="create()">Sign Up</button>
+    
+</div>
+    </div>
+  </body>
+</html>

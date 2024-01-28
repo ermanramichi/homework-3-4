@@ -1,0 +1,483 @@
+[
+  {
+    "type": "Feature",
+    "id": "node/172348137",
+    "properties": {
+      "timestamp": "2021-05-30T10:42:18Z",
+      "version": "8",
+      "name": "Природонаучен Музеј",
+      "name:en": "Macedonian Museum of Natural History",
+      "name:tr": "Ulusal Tarih Müzesi",
+      "tourism": "museum",
+      "wikidata": "Q20567394",
+      "wikipedia": "mk:Природонаучен музеј на Македонија",
+      "id": "node/172348137"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4174425,
+        42.005709
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/332044798",
+    "properties": {
+      "timestamp": "2015-07-14T13:36:35Z",
+      "version": "2",
+      "name": "Museum of Contemporary Art - Skopje",
+      "name:en": "Museum of Contemporary Art - Skopje",
+      "tourism": "hotel",
+      "int_name": "Hotel Popova Sapka",
+      "id": "node/332044798"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8804512,
+        42.0136748
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/365840363",
+    "properties": {
+      "timestamp": "2019-05-14T03:44:08Z",
+      "version": "6",
+      "name": "Contemporary Art Center - Skopje",
+      "name:en": "Contemporary Art Center - Skopje",
+      "tourism": "hotel",
+      "website": "http://hotelimakedonija.com.mk/mk/Hotel/57/Hotel-Vodno-Skopje",
+      "int_name": "Vodno",
+      "id": "node/365840363"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4087904,
+        41.9766582
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/369750026",
+    "properties": {
+      "timestamp": "2019-05-16T12:44:25Z",
+      "version": "9",
+      "name": "Cultural Center Tocka - Skopje",
+      "access": "no",
+      "barrier": "entrance",
+      "name:en": "Skopje Fortress Gate",
+      "historic": "city_gate",
+      "id": "node/369750026"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4338778,
+        42.0008716
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/410115784",
+    "properties": {
+      "timestamp": "2020-05-17T05:36:04Z",
+      "version": "6",
+      "name": "Art Gallery Boris Georgiev - Bitola",
+      "name:en": "Art Gallery Boris Georgiev - Bitola",
+      "historic": "monument",
+      "int_name": "Mečkin Kamen",
+      "id": "node/410115784"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.257898,
+        41.3377228
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/416452221",
+    "properties": {
+      "timestamp": "2009-10-31T01:22:26Z",
+      "version": "2",
+      "name": "Art Gallery Stara Čaršija - Ohrid",
+      "tourism": "hotel",
+      "id": "node/416452221"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4244806,
+        42.0037446
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/461664195",
+    "properties": {
+      "timestamp": "2013-08-14T18:11:52Z",
+      "version": "5",
+      "name": "Art Gallery Baha - Tetovo",
+      "name:en": "Art Gallery Baha - Tetovo",
+      "tourism": "hotel",
+      "id": "node/461664195"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.6431437,
+        41.436015
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/470410033",
+    "properties": {
+      "timestamp": "2020-03-28T06:57:51Z",
+      "version": "8",
+      "ele": "1645",
+      "name": "Љуботен",
+      "name:en": "Art Gallery Stara Čaršija - Ohrid",
+      "name:sr": "Art Gallery Stara Čaršija - Ohrid",
+      "tourism": "alpine_hut",
+      "alt_name": "Планинарски дом Љуботен",
+      "operator": " ИГМ „Вратница“ - Вратница",
+      "wikidata": "Q50136317",
+      "population": "0",
+      "name:sr-Latn": "Planinarski dom Ljuboten",
+      "id": "node/470410033"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.127279,
+        42.184771
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/478699817",
+    "properties": {
+      "timestamp": "2013-09-26T03:24:23Z",
+      "version": "2",
+      "name": "Museum of Contemporary Art - Skopje",
+      "name:en": "Berovo Town Museum",
+      "tourism": "museum",
+      "website": "http://www.berovo.gov.mk/index.php?option=com_content&view=article&id=76&Itemid=117",
+      "id": "node/478699817"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.8566138,
+        41.7077548
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/496160455",
+    "properties": {
+      "timestamp": "2018-06-02T04:16:25Z",
+      "version": "4",
+      "name": "Museum of Art - Skopje",
+      "stars": "3",
+      "name:en": "Hotel Beograd",
+      "tourism": "hotel",
+      "int_name": "Hotel BEOGRAD",
+      "addr:city": "Струга",
+      "addr:street": "8. Ноември",
+      "addr:postcode": "6330",
+      "internet_access": "wlan",
+      "addr:housenumber": "Kej 8-mi noemvri",
+      "internet_access:fee": "yes",
+      "id": "node/496160455"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.6785228,
+        41.1781482
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/499130722",
+    "properties": {
+      "timestamp": "2012-09-03T11:05:49Z",
+      "version": "2",
+      "name": "Museum - Skopje",
+      "tourism": "hotel",
+      "int_name": "Makpetrol",
+      "id": "node/499130722"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7390308,
+        41.6499002
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/529811458",
+    "properties": {
+      "timestamp": "2018-05-02T12:47:08Z",
+      "version": "3",
+      "name": "Музеј Галерија Кавадарци",
+      "name:en": "Muzej Galerija Kavadarci",
+      "tourism": "museum",
+      "id": "node/529811458"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.0163228,
+        41.4343634
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/842635213",
+    "properties": {
+      "timestamp": "2012-09-18T14:41:30Z",
+      "version": "7",
+      "name": "Музеј Галерија Кавадарци",
+      "name:mk": "Гиновци",
+      "tourism": "picnic_site",
+      "int_name": "Ginovci",
+      "id": "node/842635213"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.1633104,
+        42.1824239
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/959317641",
+    "properties": {
+      "timestamp": "2012-12-02T01:25:27Z",
+      "version": "4",
+      "name": "Музеј Галерија Кавадарци",
+      "tourism": "hotel",
+      "id": "node/959317641"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.6481197,
+        41.5924377
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1378197244",
+    "properties": {
+      "timestamp": "2021-02-22T11:27:41Z",
+      "version": "7",
+      "email": "info@orangeinn.com.mk",
+      "name": "Macedonian Museum of Natural History",
+      "phone": "+38922772254",
+      "tourism": "hotel",
+      "website": "https://www.booking.com/hotel/mk/orange-inn.en-gb.html?sid=1ddd35f0ef4f22510d37f152a78ce4a3",
+      "id": "node/1378197244"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.440152,
+        41.980192
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1381642430",
+    "properties": {
+      "timestamp": "2015-11-12T13:37:54Z",
+      "version": "3",
+      "name": "Александар",
+      "name:en": "Aleksandar",
+      "tourism": "hotel",
+      "addr:street": "Востаничка",
+      "addr:housenumber": "24",
+      "id": "node/1381642430"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4262323,
+        41.9843835
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1475328742",
+    "properties": {
+      "timestamp": "2013-07-08T21:11:22Z",
+      "version": "3",
+      "name": "Rimska crkva",
+      "is_in": "Orman",
+      "historic": "archaeological_site",
+      "id": "node/1475328742"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3527926,
+        42.0586697
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1499057720",
+    "properties": {
+      "timestamp": "2013-04-21T19:58:28Z",
+      "version": "2",
+      "name": "Macedonian Museum of Natural History",
+      "source": "GPS",
+      "tourism": "hotel",
+      "id": "node/1499057720"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4329531,
+        41.9948912
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1507082598",
+    "properties": {
+      "timestamp": "2021-06-20T15:53:37Z",
+      "version": "2",
+      "ele": "1744",
+      "name": "Jorgov Kamen",
+      "tourism": "viewpoint",
+      "id": "node/1507082598"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.2228278,
+        41.0214101
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1611964677",
+    "properties": {
+      "timestamp": "2021-03-24T21:35:49Z",
+      "version": "5",
+      "boundary": "marker",
+      "ele": "1337",
+      "historic": "boundary_stone",
+      "marker": "stone",
+      "name": "Шуплив Камен",
+      "name:sr": "Шупаљ камак",
+      "name:sr-Latn": "Šupalj kamak",
+      "natural": "peak",
+      "ref": "106",
+      "id": "node/1611964677"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.3602706,
+        42.3111141
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1612143468",
+    "properties": {
+      "timestamp": "2021-10-14T21:32:20Z",
+      "version": "3",
+      "boundary": "marker",
+      "ele": "1748.8",
+      "historic": "boundary_stone",
+      "marker": "stone",
+      "name": "Куцолиница / 86",
+      "natural": "peak",
+      "id": "node/1612143468"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.5899869,
+        42.1102442
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1786613380",
+    "properties": {
+      "timestamp": "2016-05-17T14:30:06Z",
+      "version": "5",
+      "ele": "1554",
+      "name": "Копанки",
+      "source": "user knowledge",
+      "name:en": "Kopanki",
+      "tourism": "alpine_hut",
+      "alt_name": "Планинарски Дом Копанки",
+      "int_name": "Kopanki",
+      "operator": "ПД „Пелистер“ - Битола",
+      "abandoned": "yes",
+      "alt_name:en": "Planinarski Dom Kopanki",
+      "id": "node/1786613380"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.2190362,
+        41.0330959
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1812296549",
+    "properties": {
+      "timestamp": "2012-07-04T09:58:29Z",
+      "version": "1",
+      "name": "Hotel MVR",
+      "source": "Bing",
+      "tourism": "hotel",
+      "id": "node/1812296549"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.0846302,
+        40.9299992
+      ]
+    }
+  }
+]

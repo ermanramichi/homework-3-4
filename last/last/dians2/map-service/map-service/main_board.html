@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home</title>
+  <link rel="stylesheet" href="map.css">
+  <script src="frontend.js"></script>
+  <link rel="stylesheet" href="/leaflet/leaflet.css" />
+  <script src="/leaflet/leaflet.js"></script>
+</head>
+
+
+<body>
+<div class="header">
+  <form>
+    <input type="search" id="search1" name="search" placeholder="   Search">
+  </form>
+  <!--  <script>-->
+
+  <!--    // frontend.js-->
+
+  <!--    // Fetch todos from the backend-->
+  <!--    fetch('http://localhost:3000/data')-->
+  <!--            .then(response => response.json())-->
+  <!--            .then(data => {-->
+  <!--              // Process the retrieved todos-->
+  <!--              console.log(data);-->
+  <!--            })-->
+  <!--            .catch(error => console.error('Error fetching todos:', error));-->
+  <script>
+    function handleSubmit(event) {
+      event.preventDefault(); // Prevent the form from submitting in the traditional way
+
+      // Get the search term from the input field
+      var searchTerm = document.getElementById("search1").value;
+
+      // Perform the redirection based on the search term
+      // You can replace this with your own logic for opening a new HTML page
+      if (searchTerm.trim() !== "") {
+        window.location.href="search.html"
+      }
+    }
+    document.getElementById("search1").addEventListener("keypress", function (event) {
+      if (event.key === "Enter") {
+        handleSubmit(event);
+      }
+    });
+
+  </script>
+  <nav class="navigation">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <div class="buttons">
+    <button id="login">
+      <a  href="login.html">Log In</a>
+    </button>
+    <button id="signup"><a href="signup.html">Sign up</a></button></div>
+
+</div>
+<div class="imagelogo">
+  <img id="logo" src="logo artgalleries.png" alt="logo" class="logo">
+</div>
+<div id="map">
+  <script src="service.js"></script>
+</div>
+
+</body>
+
+</html>

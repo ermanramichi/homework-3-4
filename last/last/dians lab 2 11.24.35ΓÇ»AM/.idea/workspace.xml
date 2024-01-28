@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e82b0e2c-552b-4bcd-ab67-c23675c0d830" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z6EjyScNM687aZZK0pOObKelw4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/arianberisha/Desktop/dians lab 2 11.24.35 AM/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e82b0e2c-552b-4bcd-ab67-c23675c0d830" name="Changes" comment="" />
+      <created>1701734268656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701734268656</updated>
+      <workItem from="1701734269789" duration="254000" />
+      <workItem from="1701735344642" duration="48000" />
+      <workItem from="1701876550937" duration="370000" />
+      <workItem from="1701877024413" duration="8259000" />
+      <workItem from="1701885454106" duration="719000" />
+      <workItem from="1701901392086" duration="163000" />
+      <workItem from="1701901559672" duration="62000" />
+      <workItem from="1701901624294" duration="185000" />
+      <workItem from="1701901811608" duration="50000" />
+      <workItem from="1701901864821" duration="213000" />
+      <workItem from="1701902080499" duration="41000" />
+      <workItem from="1701902331584" duration="310000" />
+      <workItem from="1701905865565" duration="298000" />
+      <workItem from="1701906184570" duration="77000" />
+      <workItem from="1701906282255" duration="137000" />
+      <workItem from="1701906453294" duration="15000" />
+      <workItem from="1701906492528" duration="584000" />
+      <workItem from="1701907140804" duration="83000" />
+      <workItem from="1701907230953" duration="123000" />
+      <workItem from="1701907363562" duration="340000" />
+      <workItem from="1703363368392" duration="634000" />
+      <workItem from="1706206554335" duration="1191000" />
+      <workItem from="1706208320241" duration="958000" />
+      <workItem from="1706209298805" duration="904000" />
+      <workItem from="1706210217784" duration="797000" />
+      <workItem from="1706457740676" duration="1899000" />
+      <workItem from="1706463425377" duration="831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

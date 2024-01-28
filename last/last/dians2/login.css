@@ -1,0 +1,236 @@
+body {
+    background-color: #063970;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: opacity 1s ease-in ;
+  }
+
+  header {
+    background-color:#063970;
+    padding: 10px;
+    text-align: center;
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+    background-color: #063970;
+    height: 100px;
+    margin-right: 0 auto;
+  }
+  .header{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+  }
+  .buttons{
+    display: flex;
+  }
+
+  .navigation a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  .navigation a:hover {
+    background-color:#154c79;
+    
+  }
+  #login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+    border-color: #abdbe3;
+    border-radius: 20px;
+    background-color: #abdbe3;
+    border: 0;
+  }
+  #login a{
+    color: #063970;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-size:30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding:10px;
+  }
+  #signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+    border-radius: 20px;
+    background-color: #abdbe3;
+    border: 0;
+  }
+  #signup a{
+    color: #063970;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-size:30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding:10px;
+  }
+  form{
+    display: flex;
+    
+    
+  }
+  input[type="search"]{
+    width: 340px;
+    background-color: white;
+    border-color: white;
+    border-radius:50px;
+    height: 50px;
+    font-size: 30px;
+    visibility: 50%;
+    color: #063970;
+    
+  }
+  input[type="search"]::placeholder{
+    color: gray;
+    font-size: 30px;
+    
+  }
+  .container{
+    
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .loginbox{
+    width:500px;
+    height: 350px;
+    background-color: white;
+    color: #063970;
+    display: grid;
+    grid-template-rows: 50px;
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 20px;
+    
+  }
+  input{
+    background-color: #abdbe3;
+    height: 50px;
+    padding-top:10px;
+    color: white;
+    font-size: 18px;
+    border: 0px;
+    border-radius: 5px;
+  }
+  label{
+    display: flex;
+    align-items: end;
+  }
+  #forgotten{
+    display: flex;
+    text-align: end;
+    align-items: start;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: none;
+    color: gray;
+  }
+  .loginbox button{
+    font-size: 30px;
+    width:fit-content;
+    padding: 10px 30px;
+    align-items: center;
+    margin: 0 auto;
+    color: #063970;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color:#abdbe3;
+    border-radius: 30px;
+    border: 0px;
+  }
+  input::placeholder{
+    color: #063970;
+    font-size:25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    opacity: 0.5;
+  }
+  p{
+    font-size: 18px;
+    color: red;
+  }
+  .signupcont{
+    width: 100%;
+    margin-top: 50px;
+    height: auto;
+  }
+  .signupbox{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    height:fit-conten;
+    background-color: white;
+    color: #063970;
+    display: grid;
+    font-size: 25px;
+    border: 0px;
+    border-radius: 25px;
+    
+  }
+  .signupbox label{
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+  .agreement{
+    display: flex;
+    justify-content:space-around;
+    padding-bottom: 15px;
+  }
+  input[type="checkbox"]{
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+  }
+  #agreement{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+  }
+  .signupbox button{
+    padding-top: 10px;
+    font-size: 30px;
+    width:fit-content;
+    padding: 10px 30px;
+    align-items: center;
+    margin: 0 auto;
+    color: #063970;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color:#abdbe3;
+    border-radius: 30px;
+    border: 0px;
+  }
+  h3{
+    padding-top: 10px;
+    margin: 0 auto;
+  }
+h3 a{
+    text-decoration: none;
+    color: purple;
+    font-size: 18px;
+    font-style: italic;
+}

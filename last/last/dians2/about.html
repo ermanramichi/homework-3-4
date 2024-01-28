@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home</title>
+  <link rel="stylesheet" href="basic.css">
+
+  
+</head>
+
+
+<body>
+  <div class="header">
+    <form>
+      <input type="search" id="search" name="search" placeholder="   Search">  
+  </form>
+  <script>
+  function handleSubmit(event) {
+    event.preventDefault(); // Prevent the form from submitting in the traditional way
+
+    // Get the search term from the input field
+    var searchTerm = document.getElementById("search").value;
+
+    // Perform the redirection based on the search term
+    // You can replace this with your own logic for opening a new HTML page
+    if (searchTerm.trim() !== "") {
+        window.location.href="search.html"
+    }
+  }
+    document.getElementById("search").addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+                handleSubmit(event);
+            }
+    });
+  
+</script>
+  <nav class="navigation">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <div class="buttons">
+    <button id="login">
+      <a  href="login.html">Log In</a>
+    </button>
+    <button id="signup"><a href="">Sign up</a></button></div>
+  
+</div>
+<div class="textContainer">
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed magni, ipsum illo accusantium, ut qui consectetur odit ratione, voluptatem repellendus porro esse laboriosam provident praesentium officia suscipit. Quidem, rem quis aliquam obcaecati, enim officiis ratione id quaerat deserunt quisquam adipisci! Dolorum, hic eum! Quasi dolor, officiis quam nisi harum earum?</p>
+</div>
+
+</body>
+
+</html>
